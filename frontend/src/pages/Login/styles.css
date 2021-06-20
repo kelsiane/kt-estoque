@@ -1,0 +1,40 @@
+.login-container{
+    width: 100%;
+    /* max-width: 1120px; */
+    height: 100vh;
+    margin: 0 auto;
+    /* background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%); */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #002155;
+    text-align: center;
+}
+.login-container .footer {
+    width: 100%;
+    height:50vh;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    
+   fill: #ffffff;
+   
+}
+.login-container section.form{
+    width: 100%;
+    max-width: 350px;
+    color:#ffffff;
+     background-image: linear-gradient(to top, #4DAF4E 30%, #002155 100%);  
+    border-radius: 5%;
+}
+
+.login-container section.form form h1{
+    font-size: 32px;
+    margin-bottom: 32px;
+}
+
+.login-container section input{
+    width: 100%;
+    max-width: 350px;
+    
+}
