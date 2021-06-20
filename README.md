@@ -4,7 +4,7 @@
 
 Projeto fullstack para fins educativos, esse projeto foi desenvolvido na disciplina de desenvolvimento web.
 
-**VISITE EM: https://api-dw.vercel.app/**
+**VISITE EM: https://frontend-beta-roan.vercel.app/**
 
 ## :computer: Tecnologias utilizadas
 
@@ -15,17 +15,17 @@ Projeto fullstack para fins educativos, esse projeto foi desenvolvido na discipl
 
 ## :construction_worker: Projeto na sua máquina
 
-**Só é necessário realizar o clone deste repositório a partir do seguinte comando:**
+**Primeiramente você precisa ter instalado o [Node.js](https://nodejs.org/en/download/), depois efetuar o clone deste repositório a partir do seguinte comando:**
 
 ```
-git clone https://github.com/kelsiane/site-djassessoria.git
+https://github.com/kelsiane/kt-estoque.git
 ```
 
 URLs SSH fornecem acesso a um repositório Git via SSH, um protocolo seguro. Se você tiver uma chave SSH registrada em
 sua conta do Github, clone o projeto usando este comando:
 
 ```
-git@github.com:kelsiane/site-djassessoria.git
+git@github.com:kelsiane/kt-estoque.git
 ```
 
 # :art: Layout
